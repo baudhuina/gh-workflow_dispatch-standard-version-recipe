@@ -8,7 +8,7 @@ on:
         required: true
         default: 'true'
       releaseVersion:
-        description: 'Notation has to be major.minor.patch (leave empty for automatic determination)'
+        description: 'Custom Version (major.minor.patch; leave empty for automatic determination)'
         required: false
 
 jobs:
