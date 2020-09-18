@@ -9,6 +9,16 @@ File [release.yml](./github/workflows/release.yml)
 
 ## Usage
 
+### Dry Run
+
 ![](resources/vis_inputs.png)
 
 ![](resources/output_dryrun.png)
+
+### Set Version Number
+
+![](resources/vis_inputs_100.png)
+
+![](resources/output100.png)
+
+![](resources/release100.png)
