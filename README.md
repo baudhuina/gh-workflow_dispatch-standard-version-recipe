@@ -1,6 +1,14 @@
-# gh-workflow_dispatch-standard-version-recipie
+# gh-workflow_dispatch-standard-version-recipe
 Demo / Playground for a recipe on how to create a workflow, that can be manually triggered, and create a release with https://github.com/conventional-changelog/standard-version
 
-If you are a fan of [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) and want to semi-automate your release process then thsi recipe might help to get you started.
+If you are a fan of [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) and want to semi-automate your release process then this recipe might help to get you started.
+
+## Code
 
 File [release.yml](./github/workflows/release.yml)
+
+## Usage
+
+![](resources/vis_inputs.png)
+
+![](resources/output_dryrun.png)
