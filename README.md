@@ -22,3 +22,17 @@ File [release.yml](./github/workflows/release.yml)
 ![](resources/output100.png)
 
 ![](resources/release100.png)
+
+### Auto-determine Version Number
+
+![](resources/vis_inputs_101.png)
+
+![](resources/output101.png)
+
+![](resources/release101.png)
+
+The generated changelog provides a link to quickly compare a release with its previous release
+
+![](resources/compareReleases.gif)
+
+
